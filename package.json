@@ -1,0 +1,22 @@
+{
+  "name": "todo-electron",
+  "version": "1.0.0",
+  "description": "to-do app in electron\r it's never being more fun adding todos!!!",
+  "main": "index.js",
+  "scripts": {
+    "electron" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohitj27/todo-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohitj27/todo-electron/issues"
+  },
+  "homepage": "https://github.com/mohitj27/todo-electron#readme",
+  "dependencies": {
+    "electron": "^4.0.5"
+  }
+}
